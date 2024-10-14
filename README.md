@@ -51,6 +51,11 @@ PostgreSQL has many advanced features that other enterprise-class database manag
 PostgreSQL is designed to be extensible. PostgreSQL allows you to define your data types, index types, functional languages, and so on.
 
 
-### Commands
+### [Commands](102-command/README.md)
 
-- [SELECT](102-command/101-query-data/101-select/README.md)
+- [Query command](102-command/101-query-data/)
+    - [SELECT](102-command/101-query-data/101-select/README.md)
+    - [Column alias](102-command/101-query-data/102-column-alias.md)
+    - [Order by](102-command/101-query-data/103-order-by.md)
+    - [Distinct](102-command/101-query-data/104-distinct.md)
+    - [Distinct](102-command/101-query-data/104-distinct.md)
